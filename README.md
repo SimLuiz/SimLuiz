@@ -39,7 +39,7 @@ Atualmente, estou desenvolvendo um **sistema de garantias de baterias** como par
 
 ## 📈 Estatísticas de GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=simluiz-github&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 Como me encontrar
 
