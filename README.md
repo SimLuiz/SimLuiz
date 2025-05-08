@@ -5,7 +5,7 @@
 - 👨‍🎓 **Bacharel em Sistemas de Informação** pela IESGO.
 - 💼 Atuo como **Faturista** e **Analista de BI**, com experiência nas áreas **financeira**, **contábil**, **atendimento ao cliente**, **desenvolvimento web** e **análise de dados com Power BI**.
 - 💻 Tenho paixão por **tecnologia**, **automação** e **resolução de problemas com código**.
-- 🎯 Busco oportunidades nas áreas de **desenvolvimento web**,**segurança da informação** e **area de dados**.
+- 🎯 Busco oportunidades nas áreas de **desenvolvimento web**, **segurança da informação** e **area de dados**.
 
 ## 🚀 Tecnologias e Linguagens
 
