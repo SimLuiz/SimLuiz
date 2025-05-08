@@ -3,46 +3,52 @@
 ## Sobre mim
 
 - 👨‍🎓 **Bacharel em Sistemas de Informação** pela IESGO.
-- 💼 Atuo como **Faturista** e **Analista de BI**, com experiência nas áreas financeira, contábil e de atendimento, além de desenvolvimento web e análise de dados com Power BI.
-- 💻 **Desenvolvedor Web** com foco em **Node.js**, **PHP**, **HTML**, **CSS**, **JavaScript** e **MySQL**.
-- 🎓 Em busca de oportunidades na área de **segurança de TI** e **desenvolvimento**.
+- 💼 Atuo como **Faturista** e **Analista de BI**, com experiência nas áreas **financeira**, **contábil**, **atendimento ao cliente**, **desenvolvimento web** e **análise de dados com Power BI**.
+- 💻 Tenho paixão por **tecnologia**, **automação** e **resolução de problemas com código**.
+- 🎯 Busco oportunidades nas áreas de **desenvolvimento web** e **segurança da informação**.
 
-## 🚀 Tecnologias e Linguagens que Utilizo
+## 🚀 Tecnologias e Linguagens
 
 - **Linguagens de Programação:**
-  - Python
   - JavaScript (Node.js)
   - PHP
+  - Python
   - SQL (MySQL)
 
-- **Ferramentas e Frameworks:**
+- **Front-end:**
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap
+
+- **Back-end e Banco de Dados:**
   - Node.js
-  - MySQL
+  - PHP
+  - MySQL (phpMyAdmin)
+
+- **Ferramentas e Outros:**
+  - Git & GitHub
   - Power BI
-  - HTML5, CSS3 (e frameworks como Bootstrap)
-  - Git
-
-- **Outras Tecnologias:**
-  - Desenvolvimento Web
-  - Automação de Sistemas
   - Modelagem de Dados
+  - Automação de Sistemas
 
-## 📚 Projetos Pessoais
+## 📌 Projetos em Destaque
 
-Atualmente, estou desenvolvendo um **sistema de garantias de baterias** como parte do meu TCC, que inclui funcionalidades como:
+### 🔧 Sistema de Garantias de Baterias (TCC)
+Sistema web moderno e minimalista para gerenciamento de garantias:
+- Tela de login segura
+- Lançamento de até 30 baterias por registro
+- Consulta e edição de lançamentos
+- Exportação para Excel/CSV
+- Envio de e-mails com notificações
 
-- **Login** e autenticação de usuários
-- **Lançamento de garantias** de baterias
-- **Consulta e edição de lançamentos**
-- Design **moderno e minimalista** com **HTML**, **CSS** e **PHP**
-- **Exportação para Excel/CSV** e envio de **notificações por e-mail**
+## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas de GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=simluiz-github&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+## 📫 Onde me encontrar
 
-## 📫 Como me encontrar
-
-- E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
-- GitHub: [seu-github](https://github.com/seu-usuario-github)
+- 📧 E-mail: [sim.luizlopes@gmail.com](mailto:sim.luizlopes@gmail.com)
+- 💼 LinkedIn: [luiz-felipe-lopes](https://www.linkedin.com/in/luiz-felipe-lopes-9bb082201)
+- 📸 Instagram: [@sim.luiz](https://www.instagram.com/sim.luiz/)
+- 🧑‍💻 GitHub: [SimLuiz](https://github.com/SimLuiz)
