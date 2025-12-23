@@ -60,13 +60,22 @@ Sistema web para gerenciamento de garantias, com foco em organização e rastrea
 - Notificações por e-mail
 
 **Tecnologias:**
-- JavaScript 
+- React + Tailwind CSS
+- JavaScript / TypeScript
 - PHP / Node.js
 - MySQL
 
 ---
 
 ## 📊 GitHub Stats
+
+### 📈 Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimLuiz&theme=radical)
+
+### 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimLuiz&layout=compact&theme=radical)
+
+### 📊 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&theme=radical&count_private=true)
 
 ---
