@@ -1,54 +1,77 @@
-# Olá, eu sou o Luiz 👋
+# 👋 Luiz Felipe Lopes
 
-## Sobre mim
+**Bacharel em Sistemas de Informação | Desenvolvedor Web | Analista de BI**
 
-- 👨‍🎓 **Bacharel em Sistemas de Informação** pela IESGO.
-- 💼 Atuo como **Faturista** e **Analista de BI**, com experiência nas áreas **financeira**, **contábil**, **desenvolvimento web** e **análise de dados com Power BI**.
-- 💻 Tenho paixão por **tecnologia**, **automação** e **resolução de problemas com código**.
-- 🎯 Busco oportunidades nas áreas de **desenvolvimento web**, **segurança da informação** e **area de dados**.
+Sou profissional de tecnologia com foco em **desenvolvimento web**, **automação de sistemas** e **análise de dados**. Tenho experiência prática em ambientes corporativos, atuando com sistemas, dados e processos, sempre buscando eficiência, organização e código bem estruturado.
 
-## 🚀 Tecnologias e Linguagens
+---
 
-- **Linguagens de Programação:**
-  - JavaScript (Node.js)
-  - PHP
-  - Python
-  - SQL (MySQL)
+## 🧠 Sobre mim
+- 🎓 Bacharel em **Sistemas de Informação** – IESGO  
+- 💼 Atuação como **Faturista** e **Analista de BI**
+- 📊 Experiência em **dados**, **financeiro**, **contábil** e **sistemas**
+- ⚙️ Interesse forte em **desenvolvimento**, **segurança da informação** e **dados**
+- 🧩 Perfil analítico, focado em resolver problemas com tecnologia
 
-- **Front-end:**
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Bootstrap
+---
 
-- **Back-end e Banco de Dados:**
-  - Node.js
-  - PHP
-  - MySQL (phpMyAdmin)
+## 🚀 Stack Tecnológica
 
-- **Ferramentas e Outros:**
-  - Git & GitHub
-  - Power BI
-  - Modelagem de Dados
-  - Automação de Sistemas
+### 🔹 Linguagens
+- JavaScript (Node.js)
+- PHP
+- Python
+- SQL (MySQL)
 
-## 📌 Projetos em Destaque
+### 🔹 Front-end
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### 🔹 Back-end & Banco de Dados
+- Node.js
+- PHP
+- MySQL (phpMyAdmin)
+
+### 🔹 Ferramentas
+- Git & GitHub
+- Power BI
+- Modelagem de Dados
+- Automação de Sistemas
+
+---
+
+## 🛠️ Projetos em Destaque
 
 ### 🔧 Sistema de Garantias de Baterias (TCC)
-Sistema web moderno e minimalista para gerenciamento de garantias:
-- Tela de login segura
-- Lançamento de até 30 baterias por registro
-- Consulta e edição de lançamentos
-- Exportação para Excel/CSV
-- Envio de e-mails com notificações
+Sistema web para controle e gerenciamento de garantias.
 
-## 📈 Estatísticas do GitHub
+**Funcionalidades:**
+- Autenticação de usuários
+- Lançamento de até **30 baterias por registro**
+- Consulta, edição e histórico de lançamentos
+- Exportação de dados (Excel / CSV)
+- Notificações por e-mail
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&hide_title=true&count_private=true&theme=radical)
+**Tecnologias:**
+- HTML, CSS, JavaScript
+- PHP / Node.js
+- MySQL
 
-## 📫 Onde me encontrar
+---
 
-- 📧 E-mail: [sim.luizlopes@gmail.com](mailto:sim.luizlopes@gmail.com)
-- 💼 LinkedIn: [luiz-felipe-lopes](https://www.linkedin.com/in/luiz-felipe-lopes-9bb082201)
-- 📸 Instagram: [@sim.luiz](https://www.instagram.com/sim.luiz/)
-- 🧑‍💻 GitHub: [SimLuiz](https://github.com/SimLuiz)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 📫 Contato
+- 📧 **Email:** sim.luizlopes@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/luiz-felipe-lopes-9bb082201  
+- 🧑‍💻 **GitHub:** https://github.com/SimLuiz  
+- 📸 **Instagram:** @sim.luiz/@luiz.codes
+
+---
+
+⭐ *Sempre aberto a novos desafios e oportunidades na área de tecnologia.*
