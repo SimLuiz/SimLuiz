@@ -2,7 +2,7 @@
 
 **Bacharel em Sistemas de Informação | Desenvolvedor Web | Analista de BI**
 
-Sou profissional de tecnologia com foco em **desenvolvimento web**, **automação de sistemas** e **análise de dados**. Tenho experiência prática em ambientes corporativos, atuando com sistemas, dados e processos, sempre buscando eficiência, organização e código bem estruturado.
+Profissional de tecnologia com foco em **desenvolvimento web moderno**, **automação de sistemas** e **análise de dados**. Experiência em ambientes corporativos, atuando com sistemas, dados e processos, priorizando código limpo, performance e boas práticas.
 
 ---
 
@@ -10,15 +10,16 @@ Sou profissional de tecnologia com foco em **desenvolvimento web**, **automaçã
 - 🎓 Bacharel em **Sistemas de Informação** – IESGO  
 - 💼 Atuação como **Faturista** e **Analista de BI**
 - 📊 Experiência em **dados**, **financeiro**, **contábil** e **sistemas**
-- ⚙️ Interesse forte em **desenvolvimento**, **segurança da informação** e **dados**
-- 🧩 Perfil analítico, focado em resolver problemas com tecnologia
+- ⚙️ Interesse em **desenvolvimento web**, **segurança da informação** e **dados**
+- 🧩 Perfil analítico, orientado a soluções técnicas
 
 ---
 
 ## 🚀 Stack Tecnológica
 
 ### 🔹 Linguagens
-- JavaScript (Node.js)
+- JavaScript
+- TypeScript
 - PHP
 - Python
 - SQL (MySQL)
@@ -27,6 +28,8 @@ Sou profissional de tecnologia com foco em **desenvolvimento web**, **automaçã
 - HTML5
 - CSS3
 - JavaScript
+- **React**
+- **Tailwind CSS**
 - Bootstrap
 
 ### 🔹 Back-end & Banco de Dados
@@ -34,18 +37,20 @@ Sou profissional de tecnologia com foco em **desenvolvimento web**, **automaçã
 - PHP
 - MySQL (phpMyAdmin)
 
-### 🔹 Ferramentas
+### 🔹 Ferramentas & Conceitos
 - Git & GitHub
 - Power BI
 - Modelagem de Dados
 - Automação de Sistemas
+- APIs REST
+- Boas práticas de versionamento
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
 ### 🔧 Sistema de Garantias de Baterias (TCC)
-Sistema web para controle e gerenciamento de garantias.
+Sistema web para gerenciamento de garantias, com foco em organização e rastreabilidade.
 
 **Funcionalidades:**
 - Autenticação de usuários
@@ -55,7 +60,8 @@ Sistema web para controle e gerenciamento de garantias.
 - Notificações por e-mail
 
 **Tecnologias:**
-- HTML, CSS, JavaScript
+- React + Tailwind CSS
+- JavaScript / TypeScript
 - PHP / Node.js
 - MySQL
 
@@ -70,8 +76,8 @@ Sistema web para controle e gerenciamento de garantias.
 - 📧 **Email:** sim.luizlopes@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/luiz-felipe-lopes-9bb082201  
 - 🧑‍💻 **GitHub:** https://github.com/SimLuiz  
-- 📸 **Instagram:** @sim.luiz/@luiz.codes
+- 📸 **Instagram:** @sim.luiz
 
 ---
 
-⭐ *Sempre aberto a novos desafios e oportunidades na área de tecnologia.*
+⭐ *Aberto a oportunidades e projetos nas áreas de desenvolvimento web, dados e segurança da informação.*
