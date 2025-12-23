@@ -2,81 +2,44 @@
 
 **Bacharel em Sistemas de Informação | Desenvolvedor Web | Analista de BI**
 
-Profissional de tecnologia com foco em **desenvolvimento web moderno**, **automação de sistemas** e **análise de dados**. Experiência em ambientes corporativos, atuando com sistemas, dados e processos, priorizando código limpo, performance e boas práticas.
+Desenvolvedor com foco em **web moderno**, **automação** e **dados**, atuando em ambientes corporativos e projetos reais. Experiência prática com sistemas, análise de dados e desenvolvimento full stack, sempre priorizando organização, performance e boas práticas.
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Bacharel em **Sistemas de Informação** – IESGO  
-- 💼 Atuação como **Faturista** e **Analista de BI**
-- 📊 Experiência em **dados**, **financeiro**, **contábil** e **sistemas**
-- ⚙️ Interesse em **desenvolvimento web**, **segurança da informação** e **dados**
-- 🧩 Perfil analítico, orientado a soluções técnicas
+## 🚀 Stack Principal
+- **Front-end:** React, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Back-end:** Node.js, PHP
+- **Banco de Dados:** MySQL
+- **Dados:** Power BI, Modelagem de Dados
+- **Ferramentas:** Git, GitHub, APIs REST, Automação de Sistemas
 
 ---
 
-## 🚀 Stack Tecnológica
-
-### 🔹 Linguagens
-- JavaScript
-- TypeScript
-- PHP
-- Python
-- SQL (MySQL)
-
-### 🔹 Front-end
-- HTML5
-- CSS3
-- JavaScript
-- **React**
-- **Tailwind CSS**
-- Bootstrap
-
-### 🔹 Back-end & Banco de Dados
-- Node.js
-- PHP
-- MySQL (phpMyAdmin)
-
-### 🔹 Ferramentas & Conceitos
-- Git & GitHub
-- Power BI
-- Modelagem de Dados
-- Automação de Sistemas
-- APIs REST
-- Boas práticas de versionamento
-
----
-
-## 🛠️ Projetos em Destaque
-
+## 🛠️ Projeto em Destaque
 ### 🔧 Sistema de Garantias de Baterias (TCC)
-Sistema web para gerenciamento de garantias, com foco em organização e rastreabilidade.
+Sistema web para controle de garantias com foco em rastreabilidade e produtividade.
 
-**Funcionalidades:**
+**Principais recursos:**
 - Autenticação de usuários
-- Lançamento de até **30 baterias por registro**
-- Consulta, edição e histórico de lançamentos
-- Exportação de dados (Excel / CSV)
+- Lançamento de até 30 baterias por registro
+- Consulta e edição de dados
+- Exportação Excel / CSV
 - Notificações por e-mail
 
-**Tecnologias:**
-- React + Tailwind CSS
-- JavaScript / TypeScript
-- PHP / Node.js
-- MySQL
+**Stack:** React, Tailwind, TypeScript, Node.js / PHP, MySQL
 
 ---
 
 ## 📊 GitHub Stats
 
-### 📈 Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimLuiz&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SimLuiz&theme=radical" />
+</p>
 
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimLuiz&layout=compact&theme=radical)
-
-### 📊 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimLuiz&show_icons=true&theme=radical&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimLuiz&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -84,8 +47,7 @@ Sistema web para gerenciamento de garantias, com foco em organização e rastrea
 - 📧 **Email:** sim.luizlopes@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/luiz-felipe-lopes-9bb082201  
 - 🧑‍💻 **GitHub:** https://github.com/SimLuiz  
-- 📸 **Instagram:** @sim.luiz
 
 ---
 
-⭐ *Aberto a oportunidades e projetos nas áreas de desenvolvimento web, dados e segurança da informação.*
+⭐ **Aberto a oportunidades nas áreas de Desenvolvimento Web, Dados e Segurança da Informação**
