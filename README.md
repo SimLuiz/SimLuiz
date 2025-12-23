@@ -60,8 +60,7 @@ Sistema web para gerenciamento de garantias, com foco em organização e rastrea
 - Notificações por e-mail
 
 **Tecnologias:**
-- React + Tailwind CSS
-- JavaScript / TypeScript
+- JavaScript 
 - PHP / Node.js
 - MySQL
 
