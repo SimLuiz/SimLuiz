@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luiz%20Felipe%20Lopes&fontSize=45&fontColor=fff&animation=fadeIn&desc=Desenvolvedor%20Web%20%7C%20Analista%20de%20BI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Luiz%20Felipe%20Lopes&fontSize=42&fontColor=fff&animation=fadeIn&desc=Desenvolvedor%20Web%20%7C%20Analista%20de%20BI&descAlignY=75&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+React+%2B+TypeScript+%2B+Node.js;Automa%C3%A7%C3%A3o+de+Processos+%26+Dados+com+Power+BI;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
