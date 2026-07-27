@@ -16,7 +16,7 @@ Sou desenvolvedor full stack e especialista em **infraestrutura de TI**, com foc
 
 - 🔭 Atualmente sou responsável pela **infraestrutura de TI completa** da K&F Baterias (200+ colaboradores) — administração de servidores, VMware, Active Directory, backup e redes
 - 🖥️ Especialista em **infraestrutura, servidores e redes**: virtualização (VMware), gestão de domínio (AD), políticas de backup, segmentação e administração de rede corporativa
-- 📊 Atuo também com consultoria independente sob a marca **Luiz Lopes Otimização**, oferecendo dashboards em Power BI, automação de Excel e serviços de TI para pequenas empresas
+- 📊 Atuo também com consultoria independente, oferecendo dashboards em Power BI, automação de Excel e serviços de TI para pequenas empresas
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**
 - 🌱 Aprofundando conhecimentos em **React, TypeScript, Supabase e Cloudflare Workers**
 - 💬 Pergunte-me sobre **Power BI, DAX, infraestrutura de servidores, automação em Python e desenvolvimento web**
