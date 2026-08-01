@@ -106,7 +106,7 @@ Automação que lê diariamente um e-mail com planilha Excel de ordem de carrega
 
 #### Handover de Infraestrutura de TI — K&F Baterias
 
-Processo estruturado de transição de responsabilidade total da infraestrutura de TI, incluindo documentação detalhada e questionários para capturar conhecimento crítico do administrador anterior.
+Processo estruturado de transição de responsabilidade total da infraestrutura de TI, incluindo documentação detalhada e questionários para capturar conhecimento crítico anterior.
 
 **Escopo:** Credenciais e acessos · VMware · Active Directory · Políticas de backup · Redes · Documentação de domínio de conhecimento
 
